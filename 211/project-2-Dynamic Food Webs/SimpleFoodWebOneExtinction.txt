@@ -1,0 +1,11 @@
+Grass
+Lion
+Zebra
+DONE
+1 2
+2 0
+-1 -1
+x
+1
+d 
+q 

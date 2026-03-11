@@ -1,0 +1,54 @@
+Fish
+Limpets
+Lobster
+Mussels
+Phytoplankton
+Seaweed
+Whelk
+Zooplankton
+DONE
+1 5
+2 1
+6 3
+2 6
+3 4
+2 3
+3 7
+6 1
+7 4
+-1 -1
+o 
+Crab
+r
+8 3
+r
+2 8 
+r
+8 1
+o 
+Bird
+r
+9 6
+r
+9 8
+r
+9 3
+r
+9 1
+o
+Prawn
+r
+0 10
+r
+9 10
+r
+10 7
+d 
+x
+0
+x
+0
+x
+4
+d
+q 

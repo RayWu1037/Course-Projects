@@ -1,0 +1,27 @@
+Goat
+Jackal
+Kite
+Lion
+Mouse
+Owl
+Plants
+Rabbit
+Snake
+Wildcat
+DONE
+0 6
+1 0 
+1 7
+2 8
+2 4
+3 0
+3 1
+3 9
+4 6
+5 4
+7 6
+8 4
+9 7
+9 4
+-1 -1
+q 
