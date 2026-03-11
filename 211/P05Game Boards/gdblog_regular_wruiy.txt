@@ -1,0 +1,61 @@
+Breakpoint 1 at 0x2b17: file ExploreTheRegularLabyrinth.cpp, line 18.
+Starting program: /usercode/ExploreTheRegularLabyrinth.exe 
+warning: Error disabling address space randomization: Operation not permitted
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, main () at ExploreTheRegularLabyrinth.cpp:18
+18	    	cout << "You escaped!" << endl;
+$1 = (MazeCell *) 0x57eab95c84f0
+$2 = {whatsHere = "", north = 0x0, south = 0x57eab95c86f0, east = 0x0, west = 0x0}
+$3 = {whatsHere = "", north = 0x0, south = 0x57eab95c86f0, east = 0x0, west = 0x0}
+$4 = (MazeCell *) 0x57eab95c86f0
+$5 = (MazeCell *) 0x0
+$6 = (MazeCell *) 0x0
+$7 = (MazeCell *) 0x0
+$8 = (MazeCell *) 0x57eab95c86f0
+$9 = {whatsHere = "", north = 0x57eab95c84f0, south = 0x57eab95c8830, east = 0x57eab95c8740, west = 0x0}
+$10 = (MazeCell *) 0x57eab95c84f0
+$11 = (MazeCell *) 0x57eab95c8830
+$12 = (MazeCell *) 0x57eab95c8740
+$13 = (MazeCell *) 0x0
+$14 = (MazeCell *) 0x57eab95c8830
+$15 = {whatsHere = "", north = 0x57eab95c86f0, south = 0x0, east = 0x0, west = 0x0}
+$16 = (MazeCell *) 0x57eab95c86f0
+$17 = (MazeCell *) 0x0
+$18 = (MazeCell *) 0x0
+$19 = (MazeCell *) 0x0
+$20 = (MazeCell *) 0x57eab95c8740
+$21 = {whatsHere = "", north = 0x57eab95c8600, south = 0x57eab95c8880, east = 0x0, west = 0x57eab95c86f0}
+$22 = (MazeCell *) 0x57eab95c8600
+$23 = (MazeCell *) 0x57eab95c8880
+$24 = (MazeCell *) 0x0
+$25 = (MazeCell *) 0x57eab95c86f0
+$26 = (MazeCell *) 0x57eab95c8600
+$27 = {whatsHere = "Spellbook", north = 0x0, south = 0x57eab95c8740, east = 0x0, west = 0x0}
+$28 = (MazeCell *) 0x0
+$29 = (MazeCell *) 0x57eab95c8740
+$30 = (MazeCell *) 0x0
+$31 = (MazeCell *) 0x0
+$32 = (MazeCell *) 0x57eab95c8880
+$33 = {whatsHere = "", north = 0x57eab95c8740, south = 0x57eab95c89c0, east = 0x57eab95c88d0, west = 0x0}
+$34 = (MazeCell *) 0x57eab95c8740
+$35 = (MazeCell *) 0x57eab95c89c0
+$36 = (MazeCell *) 0x57eab95c88d0
+$37 = (MazeCell *) 0x0
+$38 = (MazeCell *) 0x0
+Cannot access memory at address 0x0
+$39 = {whatsHere = "", north = 0x57eab95c8790, south = 0x57eab95c8a10, east = 0x0, west = 0x57eab95c8880}
+$40 = {whatsHere = "", north = 0x57eab95c8650, south = 0x57eab95c88d0, east = 0x0, west = 0x0}
+$41 = {whatsHere = "", north = 0x0, south = 0x57eab95c8790, east = 0x57eab95c86a0, west = 0x0}
+$42 = {whatsHere = "", north = 0x57eab95c8650, south = 0x57eab95c88d0, east = 0x0, west = 0x0}
+$43 = {whatsHere = "", north = 0x0, south = 0x57eab95c87e0, east = 0x0, west = 0x57eab95c8650}
+$44 = {whatsHere = "", north = 0x57eab95c86a0, south = 0x57eab95c8920, east = 0x0, west = 0x0}
+$45 = {whatsHere = "", north = 0x0, south = 0x57eab95c87e0, east = 0x0, west = 0x57eab95c8650}
+$46 = {whatsHere = "Potion", north = 0x57eab95c87e0, south = 0x0, east = 0x0, west = 0x0}
+$47 = {whatsHere = "", north = 0x57eab95c88d0, south = 0x0, east = 0x57eab95c8a60, west = 0x0}
+$48 = {whatsHere = "", north = 0x57eab95c8790, south = 0x57eab95c8a10, east = 0x0, west = 0x57eab95c8880}
+$49 = {whatsHere = "Wand", north = 0x0, south = 0x0, east = 0x0, west = 0x57eab95c8a10}
+Warning: 'set logging off', an alias for the command 'set logging enabled', is deprecated.
+Use 'set logging enabled off'.
+

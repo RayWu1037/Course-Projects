@@ -1,0 +1,25 @@
+Breakpoint 1 at 0x2ab5: file ExploreTheTwistyLabyrinth.cpp, line 18.
+Starting program: /usercode/ExploreTheTwistyLabyrinth.exe 
+warning: Error disabling address space randomization: Operation not permitted
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Breakpoint 1, main () at ExploreTheTwistyLabyrinth.cpp:18
+18	    if (isPathToFreedom(start, kPathOutOfTwistyMaze)) {
+$1 = (MazeCell *) 0x56e0d0e8f3e0
+$2 = {whatsHere = "", north = 0x56e0d0e8fc30, south = 0x56e0d0e8fbe0, east = 0x56e0d0e8fb40, west = 0x0}
+$3 = {whatsHere = "", north = 0x56e0d0e8f3e0, south = 0x56e0d0e8fad0, east = 0x0, west = 0x0}
+$4 = {whatsHere = "", north = 0x56e0d0e8fd70, south = 0x56e0d0e8fb40, east = 0x56e0d0e8f3e0, west = 0x0}
+Attempt to extract a component of a value that is not a structure pointer.
+$5 = {whatsHere = "", north = 0x56e0d0e8fc30, south = 0x0, east = 0x0, west = 0x56e0d0e8f3e0}
+$6 = {whatsHere = "", north = 0x0, south = 0x0, east = 0x56e0d0e8fd20, west = 0x56e0d0e8fc30}
+$7 = {whatsHere = "", north = 0x0, south = 0x56e0d0e8fe50, east = 0x56e0d0e8fbe0, west = 0x0}
+$8 = {whatsHere = "", north = 0x56e0d0e8fea0, south = 0x56e0d0e8fd70, east = 0x56e0d0e8fb90, west = 0x0}
+$9 = {whatsHere = "", north = 0x0, south = 0x56e0d0e8fb90, east = 0x56e0d0e8fad0, west = 0x0}
+$10 = {whatsHere = "Wand", north = 0x0, south = 0x56e0d0e8fd20, east = 0x0, west = 0x0}
+$11 = {whatsHere = "", north = 0x56e0d0e8fcd0, south = 0x56e0d0e8fd20, east = 0x56e0d0e8fc80, west = 0x56e0d0e8fe50}
+$12 = {whatsHere = "Potion", north = 0x0, south = 0x0, east = 0x56e0d0e8fb90, west = 0x0}
+$13 = {whatsHere = "Spellbook", north = 0x0, south = 0x0, east = 0x0, west = 0x56e0d0e8fb90}
+Warning: 'set logging off', an alias for the command 'set logging enabled', is deprecated.
+Use 'set logging enabled off'.
+
