@@ -1,0 +1,11 @@
+{
+  "allowed_targets": [
+    "http://127.0.0.1:8787",
+    "http://localhost:8787"
+  ],
+  "default_target": "http://127.0.0.1:8787",
+  "data_dir": "data",
+  "events_file": "events.jsonl",
+  "pages_per_chapter": 8,
+  "min_request_gap_ms": 120
+}
